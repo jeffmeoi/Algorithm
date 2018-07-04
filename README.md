@@ -12,5 +12,4 @@ Listed below is the content.
 > > * 
 > > * 
 
-End with a small cat.
-![320592.jpg](320592.jpg)
+
