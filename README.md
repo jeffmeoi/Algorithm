@@ -4,7 +4,7 @@
 
 ## Content
 > * ### 函数和递归
-> > * 刽子手游戏(Hangman Judge, UVa 489)
+> > * 刽子手游戏(Hangman Judge, UVa 489)(tests/UVa 489 刽子手游戏.md)
 > > * 
 > * ### C++与STL
 > > * 
