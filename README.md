@@ -1,5 +1,5 @@
-# Problems Collections
-After my past Olympiad in Informatics and college entrance examination, I start to prepare for my posibly future ACM-ICPC experience.And I will keep to update my progress in Github.
+# Solutions
+After my past Olympiad in Informatics **(totally forget)** and college entrance examination, I start to prepare for my posibly future ACM-ICPC experience. All the solutions will be expressed by Chinese. Besides, I will keep to update my solutions in Github.
 
 Listed below is the content.
 
@@ -12,4 +12,4 @@ Listed below is the content.
 > > * 
 > > * 
 
-Hope the collections can support some favors for you.
+Hope the solutions can support some favors for you.
