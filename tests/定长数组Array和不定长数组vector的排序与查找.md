@@ -42,12 +42,12 @@ using namespace std;
 
 bool compare1(int a,int b){
 	
-  return a > b;										//a > b 为降序， a < b 为升序 
+  return a > b;									//a > b 为降序， a < b 为升序 
 }
 
 bool compare2(int a, int b){
 	
-  return a > b;										//a > b 为降序， a < b 为升序 
+  return a > b;									//a > b 为降序， a < b 为升序 
 }
 
 int main(int argc, char* argv[]){
@@ -60,13 +60,13 @@ int main(int argc, char* argv[]){
 		printf("%5d", a[i]);
 	cout<<endl;
 	//array查找大于等于第三个参数的第一个数的位置 
-	int p = lower_bound(a, a + maxn, 5) - a; 		//lower_bound()获取的是指针 
+	int p = lower_bound(a, a + maxn, 5) - a; 			//lower_bound()获取的是指针 
 	cout<<p<<endl;			//a[p] == 5
 	
 	
 	//vector排序 
 	vector<char> b;
-	b.push_back('e');											//vector末尾插入元素 
+	b.push_back('e');						//vector末尾插入元素 
 	b.push_back('a');
 	b.push_back('g');
 	b.push_back('c');
@@ -77,18 +77,18 @@ int main(int argc, char* argv[]){
 	b.push_back('i');
 	b.push_back('o');
 	
-	sort(b.begin(), b.end());									//默认升序 
-	sort(b.begin(), b.end(), compare2);							//重写比较函数，降序
+	sort(b.begin(), b.end());						//默认升序 
+	sort(b.begin(), b.end(), compare2);					//重写比较函数，降序
 	for(int i = 0; i < maxn; i++)
 		printf("%5c", b[i]);
 	cout<<endl;
 	////vector查找大于等于第三个参数的第一个数的位置 
 	p = lower_bound(b.begin(), b.end(), 'f') - b.begin(); 		//lower_bound()获取的是指针 
 	cout<<p<<endl;			//b[p] == 'f'
-	b.resize(100);												//重新定义vector的大小
-	b.pop_back();												//vector末尾删除元素 
-	b.size();													//获取vector的长度 
-	b.clear();													//清空vector的元素 
+	b.resize(100);							//重新定义vector的大小
+	b.pop_back();							//vector末尾删除元素 
+	b.size();							//获取vector的长度 
+	b.clear();							//清空vector的元素 
 	
 	
 	return 0;
