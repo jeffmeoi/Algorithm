@@ -1,7 +1,7 @@
 # Solutions
 After my past Olympiad in Informatics **(totally forget)** and college entrance examination, I start to prepare for my posibly future ACM-ICPC experience. 
 
-All the UVa problems come from 《算法竞赛入门经典（第二版）》. I code the programs with the code of the auther. I try to explain all the programs so clearly that you can comprehend more easily than the book.
+I code the programs with the code of the auther. I try to explain all the programs so clearly that you can comprehend more easily than the book.
 
 All the solutions are explained by Chinese. Besides, I will keep to update my solutions in Github. 
 
