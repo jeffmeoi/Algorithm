@@ -1,5 +1,9 @@
 # Solutions
-After my past Olympiad in Informatics **(totally forget)** and college entrance examination, I start to prepare for my posibly future ACM-ICPC experience. In the beginning, all the problems come from 《算法竞赛入门经典（第二版）》（刘汝佳） and 《算法竞赛入门经典训练指南》（刘汝佳）. All the solutions will follow the auther by me and be explained by Chinese. Besides, I will keep to update my solutions in Github. However, because the Internet, I haven't submit the programs to UVa OJ to run so that I can't sure whether the program is exactly correct.
+After my past Olympiad in Informatics **(totally forget)** and college entrance examination, I start to prepare for my posibly future ACM-ICPC experience. 
+
+All the UVa problem comes from 《算法竞赛入门经典（第二版）》.Because of the limited Internet, I haven't submit the UVa programs to UVa OJ to run so that I can't sure whether the program is exactly correct. However, I have compared all the UVa problems with the auther's codes. I try to explain all the programs so clearly that you can comprehend more easily than the book.
+
+All the solutions will be coded by me and be explained by Chinese. Besides, I will keep to update my solutions in Github. 
 
 Listed below is the content.
 
