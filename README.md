@@ -16,7 +16,7 @@ Listed below is the content.
 > > * [Cpp reference](https://en.cppreference.com/w/cpp)
 > > * [Cpp Standard Library](https://en.cppreference.com/w/cpp/header)
 > > * [定长数组Array和不定长数组vector的排序与查找](tests/定长数组Array和不定长数组vector的排序与查找.md)
-> > * [集合set与映射map常见用法](tests/集合set与映射map常见用法.md);
+> > * [集合set与映射map常见用法](tests/集合set与映射map常见用法.md)
 > > * 
 
 Hope the solutions can support some favors for you.
