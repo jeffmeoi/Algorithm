@@ -1,7 +1,7 @@
-# 定长数组Array和不定长数组vector的排序与查找
+# 集合set与映射map
 
 ## 分析
-详见Cpp Standard Header.
+详见Cpp Standard Library.
 ```cpp
   集合set会自动从小到大排序
   #include<set>
