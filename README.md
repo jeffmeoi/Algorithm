@@ -13,6 +13,8 @@ Listed below is the content.
 > > * [救济金发放（The Dole Queue, UVa 133）](tests/UVa%20133%20%E6%95%91%E6%B5%8E%E9%87%91%E5%8F%91%E6%94%BE.md)
 > > * [信息解码（Message Decoding, ACM/ICPC World Finals 1991, UVa 213）](tests/UVa%20213%20信息解码.md)
 > ### STL
+> > * [Cpp reference](https://en.cppreference.com/w/cpp)
+> > * [Cpp Standard Library](https://en.cppreference.com/w/cpp/header)
 > > * [定长数组Array和不定长数组vector的排序与查找](tests/定长数组Array和不定长数组vector的排序与查找.md)
 > > * 
 > > * 
