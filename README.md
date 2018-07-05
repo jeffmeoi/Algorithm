@@ -9,14 +9,14 @@ Listed below is the content.
 
 ## Content
 > ### 函数
-> > * [刽子手游戏(Hangman Judge, UVa 489)](tests/UVa%20489%20%E5%88%BD%E5%AD%90%E6%89%8B%E6%B8%B8%E6%88%8F.md)
-> > * [救济金发放（The Dole Queue, UVa 133）](tests/UVa%20133%20%E6%95%91%E6%B5%8E%E9%87%91%E5%8F%91%E6%94%BE.md)
-> > * [信息解码（Message Decoding, ACM/ICPC World Finals 1991, UVa 213）](tests/UVa%20213%20信息解码.md)
+> > * [刽子手游戏(Hangman Judge, UVa 489)](tests/UVa 489 刽子手游戏.md)
+> > * [救济金发放（The Dole Queue, UVa 133）](tests/UVa 133 救济金发放.md)
+> > * [信息解码（Message Decoding, ACM/ICPC World Finals 1991, UVa 213）](tests/UVa 213 信息解码.md)
 > ### STL
 > > * [Cpp reference](https://en.cppreference.com/w/cpp)
 > > * [Cpp Standard Library](https://en.cppreference.com/w/cpp/header)
 > > * [定长数组Array和不定长数组vector的排序与查找](tests/定长数组Array和不定长数组vector的排序与查找.md)
 > > * [集合set与映射map常见用法](tests/集合set与映射map常见用法.md)
-> > * 
+> > * [栈、队列与优先队列](tests/栈、队列与优先队列.md)
 
 Hope the solutions can support some favors for you.
