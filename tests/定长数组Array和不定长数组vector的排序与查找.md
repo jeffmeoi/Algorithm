@@ -2,11 +2,14 @@
 
 ## 分析
 ```cpp
+
 sort(首地址， 尾地址);  //排序构造1
 
 sort(首地址， 尾地址， 比较函数);  //排序构造2
 
 lower_bound(首地址， 尾地址，数值大小);  //查找
+
+#include<vector>
 
 vector<typename> name;   //vector声明
 
