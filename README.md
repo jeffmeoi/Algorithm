@@ -18,7 +18,7 @@ Listed below is the content.
 > > * [栈、队列与优先队列](tests/栈、队列与优先队列.md)
 > > * [高精模板](tests/高精模板.md)
 > ### 栈和队列
-> > * [并行程序模拟](tests/并行程序模拟.md)
+> > * [并行程序模拟(Concurrency Simulator, ACM/ICPC World Finals 1991, UVa 210)](tests/并行程序模拟.md)
 > > * 
 > > *
 Hope the solutions can support some favors for you.
