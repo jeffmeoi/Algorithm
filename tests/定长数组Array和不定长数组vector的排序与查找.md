@@ -41,7 +41,7 @@ name.clear();   //vector清空
 #include<iostream>
 
 #define maxn 10
-
+ 
 using namespace std;
 
 bool compare1(int a,int b){
