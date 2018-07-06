@@ -3,7 +3,7 @@
 ## 分析
 详见Cpp Standard Library.
 ```cpp
-  集合set会自动从小到大排序
+  集合set会自动从小到大排序，可用于查重
   #include<set>
   set<typename> name;
   name.begin();         //首元素指针
