@@ -18,9 +18,9 @@ name.push_back(新增元素);  //vector末尾增添元素
 
 name.pop_back();  //vector末尾删除元素
 
-name.begin();  //vector首元素地址
+name.begin();  //vector首元素指针
 
-name.end();  //vector末元素地址
+name.end();  //vector末元素指针
 
 name.size();  //vector尺寸
 
