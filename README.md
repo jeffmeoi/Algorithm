@@ -7,9 +7,9 @@ Listed below is the content.
 
 ## Content
 > ### 函数
-> > * [刽子手游戏(Hangman Judge, UVa 489)](tests/UVa%20489%20刽子手游戏.md)
-> > * [救济金发放(The Dole Queue, UVa 133)](tests/UVa%20133%20救济金发放.md)
-> > * [信息解码(Message Decoding, ACM/ICPC World Finals 1991, UVa 213)](tests/UVa%20213%20信息解码.md)
+> > * [刽子手游戏(Hangman Judge, UVa 489)](tests/刽子手游戏.md)
+> > * [救济金发放(The Dole Queue, UVa 133)](tests/救济金发放.md)
+> > * [信息解码(Message Decoding, ACM/ICPC World Finals 1991, UVa 213)](tests/信息解码.md)
 > ### STL入门
 > > * [Cpp reference](https://en.cppreference.com/w/cpp)
 > > * [Cpp Standard Library](https://en.cppreference.com/w/cpp/header)
