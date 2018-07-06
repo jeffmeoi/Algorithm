@@ -18,7 +18,7 @@ Listed below is the content.
 > > * [栈、队列](tests/栈、队列.md)
 > > * [高精模板](tests/高精模板.md)
 > ### 数据结构基础
-> > * [并行程序模拟(Concurrency Simulator, ACM/ICPC World Finals 1991, UVa 210)](tests/并行程序模拟.md)
+> > * [铁轨(Rails, ACM/ICPC CERC 1997, UVa 514)](tests/铁轨.md)
 > > * 
 > > *
 Hope the solutions can support some favors for you.
