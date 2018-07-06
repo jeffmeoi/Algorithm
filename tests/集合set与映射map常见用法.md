@@ -34,7 +34,7 @@ using namespace std;
 
 set<string> dict;
 map<string, int> month_name;
-
+ 
 int main(int argc, char* argv[]){
 	
 	string s, buff;
