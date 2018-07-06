@@ -15,7 +15,7 @@ Listed below is the content.
 > > * [Cpp Standard Library](https://en.cppreference.com/w/cpp/header)
 > > * [定长数组Array和不定长数组vector的排序与查找](tests/定长数组Array和不定长数组vector的排序与查找.md)
 > > * [集合set与映射map常见用法](tests/集合set与映射map常见用法.md)
-> > * [栈、队列与优先队列](tests/栈、队列与优先队列.md)
+> > * [栈、队列](tests/栈、队列.md)
 > > * [高精模板](tests/高精模板.md)
 > ### 数据结构基础
 > > * [并行程序模拟(Concurrency Simulator, ACM/ICPC World Finals 1991, UVa 210)](tests/并行程序模拟.md)
