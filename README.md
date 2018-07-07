@@ -22,8 +22,8 @@ Listed below is the content.
 > > * [栈:铁轨(Rails, ACM/ICPC CERC 1997, UVa 514)](tests/铁轨.md)
 > > * [栈:矩阵链乘(Matrix Chain Multiplication, UVa 442)](tests/矩阵链乘.md)
 > > * [链表:破损的键盘(Broken Keyboard, UVa 11988)](tests/破损的键盘.md)
-> > * 二叉树(编号/遍历)
-> > * 
+> > * [二叉树编号:小球下落(Dropping Balls, UVa 679)](tests/小球下落.md)
+> > * [二叉树遍历](二叉树遍历.md)
 > ## End
 
 Hope the solutions can support some favors for you.
