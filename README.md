@@ -24,7 +24,7 @@ Listed below is the content.
 > > * [链表:破损的键盘(Broken Keyboard, UVa 11988)](tests/破损的键盘.md)
 > > * [二叉树编号:小球下落(Dropping Balls, UVa 679)](tests/小球下落.md)
 > > * [二叉树遍历](tests/二叉树遍历.md)
-> > * 图:DFS
+> > * [图:DFS:油田(Oil Deposits, UVa 572)](tests/油田.md)
 > ## End
 
 Hope the solutions can support some favors for you.
