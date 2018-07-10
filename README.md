@@ -25,6 +25,7 @@ Listed below is the content.
 > > * [二叉树编号:小球下落(Dropping Balls, UVa 679)](tests/小球下落.md)
 > > * [二叉树遍历](tests/二叉树遍历.md)
 > > * [图:DFS:油田(Oil Deposits, UVa 572)](tests/油田.md)
+> > * [Abbott的复仇(Abbott's Revenge, ACM/ICPC World Finals 2000, UVa 816)](tests/Abbott的复仇.md)
 > ## End
 
 Hope the solutions can support some favors for you.
