@@ -25,7 +25,7 @@ Listed below is the content.
 > > * [二叉树编号:小球下落(Dropping Balls, UVa 679)](tests/小球下落.md)
 > > * [二叉树遍历](tests/二叉树遍历.md)
 > > * [图:DFS:油田(Oil Deposits, UVa 572)](tests/油田.md)
-> > * [Abbott的复仇(Abbott's Revenge, ACM/ICPC World Finals 2000, UVa 816)](tests/Abbott的复仇.md)
+> > * [图:BFS/最短路:Abbott的复仇(Abbott's Revenge, ACM/ICPC World Finals 2000, UVa 816)](tests/Abbott的复仇.md)
 > > * [拓扑排序:给任务排序(Ordering Tasks, UVa 10305)](tests/给任务排序.md)
 > ## End
 
