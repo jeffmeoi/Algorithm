@@ -19,14 +19,14 @@ Listed below is the content.
 > > * [栈、队列](tests/栈、队列.md)
 > > * [高精模板](tests/高精模板.md)
 > ### 数据结构基础
-> > * [栈:铁轨(Rails, ACM/ICPC CERC 1997, UVa 514)](tests/铁轨.md)
-> > * [栈:矩阵链乘(Matrix Chain Multiplication, UVa 442)](tests/矩阵链乘.md)
-> > * [链表:破损的键盘(Broken Keyboard, UVa 11988)](tests/破损的键盘.md)
-> > * [二叉树编号:小球下落(Dropping Balls, UVa 679)](tests/小球下落.md)
+> > * [栈: 铁轨(Rails, ACM/ICPC CERC 1997, UVa 514)](tests/铁轨.md)
+> > * [栈: 矩阵链乘(Matrix Chain Multiplication, UVa 442)](tests/矩阵链乘.md)
+> > * [链表: 破损的键盘(Broken Keyboard, UVa 11988)](tests/破损的键盘.md)
+> > * [二叉树编号: 小球下落(Dropping Balls, UVa 679)](tests/小球下落.md)
 > > * [二叉树遍历](tests/二叉树遍历.md)
-> > * [图:DFS:油田(Oil Deposits, UVa 572)](tests/油田.md)
-> > * [图:BFS/最短路:Abbott的复仇(Abbott's Revenge, ACM/ICPC World Finals 2000, UVa 816)](tests/Abbott的复仇.md)
-> > * [拓扑排序:给任务排序(Ordering Tasks, UVa 10305)](tests/给任务排序.md)
+> > * [图: DFS: 油田(Oil Deposits, UVa 572)](tests/油田.md)
+> > * [图: BFS/最短路: Abbott的复仇(Abbott's Revenge, ACM/ICPC World Finals 2000, UVa 816)](tests/Abbott的复仇.md)
+> > * [拓扑排序: 给任务排序(Ordering Tasks, UVa 10305)](tests/给任务排序.md)
 > ## End
 
 Hope the solutions can support some favors for you.
