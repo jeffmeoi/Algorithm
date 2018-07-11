@@ -1,5 +1,5 @@
 # Solutions
-Don't participate in ACM/ICPC.
+Just collect all my solutions but not participate in ACM/ICPC.
 
 All the solutions are explained by Chinese. Besides, I will keep to update my solutions in Github. 
 
