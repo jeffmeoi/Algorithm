@@ -1,5 +1,5 @@
 # Solutions
-After my past Olympiad in Informatics **(totally forget)** and college entrance examination, I start to prepare for my posibly future ACM-ICPC experience. 
+Don't participate in ACM/ICPC.
 
 All the solutions are explained by Chinese. Besides, I will keep to update my solutions in Github. 
 
