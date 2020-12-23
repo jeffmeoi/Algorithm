@@ -1,4 +1,4 @@
-package com.jeff.leetcode;
+package com.jeff.leetcode.simulation;
 
 
 public class Problem59_SpiralMatrixII {
