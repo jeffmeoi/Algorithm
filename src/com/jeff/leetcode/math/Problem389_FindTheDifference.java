@@ -1,4 +1,4 @@
-package com.jeff.leetcode.bit;
+package com.jeff.leetcode.math;
 
 public class Problem389_FindTheDifference {
 
