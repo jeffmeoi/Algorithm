@@ -1,6 +1,8 @@
 package com.jeff.leetcode.double_pointer;
 
-
+/**
+ * 从nums1尾部开始合并nums1和nums2
+ */
 public class Problem88_MergeSortedArray {
 
     public void merge(int[] nums1, int m, int[] nums2, int n) {

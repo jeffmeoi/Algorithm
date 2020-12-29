@@ -3,6 +3,9 @@ package com.jeff.leetcode.math;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 二进制法子集生成
+ */
 public class Problem78_Subsets {
 
 
