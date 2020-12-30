@@ -1,6 +1,5 @@
 package com.jeff.leetcode.structrue;
 
-import com.jeff.leetcode.linkedlist.Problem21_MergeTwoSortedLists;
 
 public class ListNode {
     public int val;
