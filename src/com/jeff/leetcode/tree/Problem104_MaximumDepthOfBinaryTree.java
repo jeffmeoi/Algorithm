@@ -1,4 +1,4 @@
-package com.jeff.leetcode.recrusion;
+package com.jeff.leetcode.tree;
 
 
 import com.jeff.leetcode.structrue.TreeNode;

@@ -4,7 +4,6 @@ import com.jeff.leetcode.structrue.ListNode;
 
 public class Problem160_IntersectionOfTwoLinkedLists {
 
-
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode tail = headA;
         while (tail.next != null)
