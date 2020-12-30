@@ -3,23 +3,6 @@ package com.jeff.leetcode.linkedlist;
 
 public class Problem21_MergeTwoSortedLists {
 
-    // Definition for singly-linked list.
-    static class ListNode {
-        int val;
-        ListNode next;
-        ListNode() {}
-        ListNode(int val) { this.val = val; }
-        ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-
-        @Override
-        public String toString() {
-            return "ListNode{" +
-                    "val=" + val +
-                    ", next=" + next +
-                    '}';
-        }
-    }
-
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode head = new ListNode(0, null), tail = head;
         while (l1 != null || l2 != null) {

@@ -1,24 +1,12 @@
 package com.jeff.leetcode.queue;
 
+import com.jeff.leetcode.structrue.TreeNode;
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
 public class Problem103_BinaryTreeZigzagLevelOrderTraversal {
-
-    // Definition for a binary tree node.
-    static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-        TreeNode(int x) { val = x; }
-
-        public TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
-    }
 
     static class Node {
         TreeNode treeNode;
