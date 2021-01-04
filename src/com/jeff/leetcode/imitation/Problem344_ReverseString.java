@@ -1,4 +1,4 @@
-package com.jeff.leetcode.simulation;
+package com.jeff.leetcode.imitation;
 
 public class Problem344_ReverseString {
 

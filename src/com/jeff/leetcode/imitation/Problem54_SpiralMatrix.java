@@ -1,4 +1,4 @@
-package com.jeff.leetcode.simulation;
+package com.jeff.leetcode.imitation;
 
 import java.util.ArrayList;
 import java.util.List;

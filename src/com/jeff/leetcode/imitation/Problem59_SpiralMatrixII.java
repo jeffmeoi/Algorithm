@@ -1,4 +1,4 @@
-package com.jeff.leetcode.simulation;
+package com.jeff.leetcode.imitation;
 
 
 public class Problem59_SpiralMatrixII {
@@ -35,23 +35,23 @@ public class Problem59_SpiralMatrixII {
 
         Problem59_SpiralMatrixII problem59_spiralMatrixII = new Problem59_SpiralMatrixII();
         int[][] mat = problem59_spiralMatrixII.generateMatrix(3);
-        for(int i = 0; i < mat.length; i++) {
-            for (int j = 0; j < mat[0].length; j++) {
-                System.out.print(mat[i][j] + " ");
+        for (int[] line : mat) {
+            for (int i : line) {
+                System.out.print(i + " ");
             }
             System.out.println();
         }
         mat = problem59_spiralMatrixII.generateMatrix(4);
-        for(int i = 0; i < mat.length; i++) {
-            for (int j = 0; j < mat[0].length; j++) {
-                System.out.print(mat[i][j] + " ");
+        for (int[] line : mat) {
+            for (int i : line) {
+                System.out.print(i + " ");
             }
             System.out.println();
         }
         mat = problem59_spiralMatrixII.generateMatrix(5);
-        for(int i = 0; i < mat.length; i++) {
-            for (int j = 0; j < mat[0].length; j++) {
-                System.out.print(mat[i][j] + " ");
+        for (int[] line : mat) {
+            for (int i : line) {
+                System.out.print(i + " ");
             }
             System.out.println();
         }

@@ -1,4 +1,4 @@
-package com.jeff.leetcode.double_pointer;
+package com.jeff.leetcode.two_pointers;
 
 /**
  * left为左指针，right为右指针，每次选择比较小的数向内移动一步

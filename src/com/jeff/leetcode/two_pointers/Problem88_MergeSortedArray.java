@@ -1,4 +1,4 @@
-package com.jeff.leetcode.double_pointer;
+package com.jeff.leetcode.two_pointers;
 
 /**
  * 从nums1尾部开始合并nums1和nums2

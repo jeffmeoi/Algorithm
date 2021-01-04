@@ -1,4 +1,4 @@
-package com.jeff.leetcode.double_pointer;
+package com.jeff.leetcode.two_pointers;
 
 import java.util.*;
 

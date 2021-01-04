@@ -1,4 +1,4 @@
-package com.jeff.leetcode.simulation;
+package com.jeff.leetcode.imitation;
 
 /**
  * O(m+n)方法，非题解
